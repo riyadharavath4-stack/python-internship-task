@@ -9,8 +9,7 @@ This contains Python programs completed as part of my internship assignment at *
 - ✅ Task 5: (Error Message Detector)  
 ## 💻 Technologies Used
 - Python
-- Google Colab
- ✅ Task 5: (Write your program name)  
+- Google Colab 
 ## 👩‍💻 Author
 *Daravath Padmini*  
 B.Tech – Information Technology  
