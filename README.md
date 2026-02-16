@@ -1,5 +1,5 @@
 # task-1-innomatics-reasearch-lab
-[10:42 pm, 12/02/2026] Padmini Daravath: # Python Internship Tasks – Innomatics Research Labs
+ # Python Internship Tasks – Innomatics Research Labs
 This contains Python programs completed as part of my internship assignment at *Innomatics Research Labs*.
 ## 📌 Tasks Included
 - ✅ Task 1: ( User Login Check)  
