@@ -14,3 +14,20 @@ This contains Python programs completed as part of my internship assignment at *
 *Daravath Padmini*  
 B.Tech – Information Technology  
 Bhoj Reddy Engineering College for Women
+
+# Task 2 – Innomatics Research Labs
+This task contains Python programs completed as part of my internship assignment at Innomatics Research Labs.
+## 📌 Tasks Included
+- ✅ Task 1: (Unique Words in a Sentence)
+- ✅ Task 2: (Highest Salary from Employee Data)
+- ✅ Task 3: ( Find Maximum and Minimum Values)  
+- ✅ Task 4: (Count Products Above a Price Threshold)  
+- ✅ Task 5: ( Calculate Attendance Percentage)
+
+## Technologies Used
+- Python
+- Google Colab
+## Author
+Padmini Daravath
+B.Tech – Information Technology
+Bhoj Reddy Engineering College for Women
