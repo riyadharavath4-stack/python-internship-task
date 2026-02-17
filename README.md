@@ -23,7 +23,6 @@ This task contains Python programs completed as part of my internship assignment
 - ✅ Task 3: ( Find Maximum and Minimum Values)  
 - ✅ Task 4: (Count Products Above a Price Threshold)  
 - ✅ Task 5: ( Calculate Attendance Percentage)
-
 ## Technologies Used
 - Python
 - Google Colab
@@ -31,3 +30,20 @@ This task contains Python programs completed as part of my internship assignment
 Padmini Daravath
 B.Tech – Information Technology
 Bhoj Reddy Engineering College for Women
+
+# Task 3 – Innomatics Research Labs
+This task contains Python programs completed as part of my internship assignment at Innomatics Research Labs.
+## 📌 Tasks Included
+- ✅ Task 1: (Employee Performance Bonus Eligibility)
+- ✅ Task 2: (Search Query Keyword Analysis)
+- ✅ Task 3: (Sensor Data Validation)  
+- ✅ Task 4: (Email Domain Usage Analysis)  
+- ✅ Task 5: (Sales Spike Detection)
+## Technologies Used
+- Python
+- Google Colab
+## Author
+Padmini Daravath
+B.Tech – Information Technology
+Bhoj Reddy Engineering College for Women
+
