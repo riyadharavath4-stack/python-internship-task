@@ -31,14 +31,15 @@ Padmini Daravath
 B.Tech – Information Technology
 Bhoj Reddy Engineering College for Women
 
-# Task 3 – Innomatics Research Labs
+# Task 4 – Innomatics Research Labs
 This task contains Python programs completed as part of my internship assignment at Innomatics Research Labs.
 ## 📌 Tasks Included
-- ✅ Task 1: (Employee Performance Bonus Eligibility)
-- ✅ Task 2: (Search Query Keyword Analysis)
-- ✅ Task 3: (Sensor Data Validation)  
-- ✅ Task 4: (Email Domain Usage Analysis)  
-- ✅ Task 5: (Sales Spike Detection)
+- ✅ Task 1: ( Mobile Recharge Validation System)
+- ✅ Task 2: (Inventory Reorder Alert System)
+- ✅ Task 3: ( Student Result Processing System)  
+- ✅ Task 4: (Cab Fare Estimator with Retry Option)  
+- ✅ Task 5: (Employee Attendance Eligibility )
+- ✅ Task 6: (Password Strength Checker )
 ## Technologies Used
 - Python
 - Google Colab
