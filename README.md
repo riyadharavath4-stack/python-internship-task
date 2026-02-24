@@ -48,7 +48,7 @@ Padmini Daravath
 B.Tech – Information Technology
 Bhoj Reddy Engineering College for Women
 
-# Task 4 – Innomatics Research Labs
+# Task 5 – Innomatics Research Labs
 This task contains Python programs completed as part of my internship assignment at Innomatics Research Labs.
 ## 📌 Tasks Included
 - ✅ Task 1:(Social Media Post Engagement Analyzer)
@@ -61,6 +61,23 @@ This task contains Python programs completed as part of my internship assignment
 ✅ Task 8: (Banking Transaction Limit Validator)
 ✅ Task 9: (Student Attendance & Exam Eligibility System)
 ✅ Task 10: (Smart Electricity Bill & Usage Analyzer)
+## Technologies Used
+- Python
+- Google Colab
+## Author
+Padmini Daravath
+B.Tech – Information Technology
+Bhoj Reddy Engineering College for Women
+
+# Task 6 – Innomatics Research Labs
+This task contains Python programs completed as part of my internship assignment at Innomatics Research Labs.
+## 📌 Tasks Included
+- ✅ Task 1: ( Smart Parking Lot Management System)
+- ✅ Task 2: (Online Food Delivery Time Estimator)
+- ✅ Task 3: (Movie Theatre Seat Occupancy Analyzer)  
+- ✅ Task 4: (Cloud Server Load Classification System)  
+- ✅ Task 5: (Smart Classroom Resource Usage Monitor)
+- ✅ Task 6: ( Online Event Registration Capacity Controller )
 ## Technologies Used
 - Python
 - Google Colab
