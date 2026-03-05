@@ -85,3 +85,20 @@ This task contains Python programs completed as part of my internship assignment
 Padmini Daravath
 B.Tech – Information Technology
 Bhoj Reddy Engineering College for Women
+
+# Task 6 – Innomatics Research Labs
+This task contains Python programs completed as part of my internship assignment at Innomatics Research Labs.
+## 📌 Tasks Included
+- ✅ Task 1: (Smart Light Controller )
+- ✅ Task 2: ( Employee ID Card System)
+- ✅ Task 3: (Mobile Contact Record)  
+- ✅ Task 4: (Product Price Tag Generator)  
+- ✅ Task 5: (Movie Rating Display System)
+- ✅ Task 6: ( Delivery Address Manager  )
+## Technologies Used
+- Python
+- Google Colab
+## Author
+Padmini Daravath
+B.Tech – Information Technology
+Bhoj Reddy Engineering College for Women
